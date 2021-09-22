@@ -4,7 +4,4 @@
 ![Gif displaying the signature reading: Best regards, Victoria Bagnall. Open for Work.](https://github.com/exuberantram/email-signature-preview/blob/master/signature_preview.gif)
 
 ### Next Steps:
-- Move GitHub profile to the same line as the LinkedIn logo
-- Add a favicon for my GitHub profile
-- Add a wider margin on either side of the bar
-- See how making the bar smaller makes it look
+- add an HTML file, index_gmail.html, that is more compatible with gmail's signature requirements
